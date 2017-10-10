@@ -14,7 +14,8 @@ var config = {
   useSSL: false,
   imagesdir: '/tmp/patientimages',
   attachmentsDir: 'tmp/attachments',
-  disableOfflineSync: false, //Set to true to disable offline usage
+  disableOfflineSync: false, 
+  //Set to true to disable offline usage
   /* The following settings are used to enable offline usage of HospitalRun
      You will need to install web-push to generate the keys:
      1. npm install web-push -g 
