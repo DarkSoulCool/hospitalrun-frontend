@@ -1,4 +1,4 @@
-/* eslint-disable */
+//eslint-disable 
 var config = {
   couchDbServer: 'localhost',
   couchDbPort: '5984',
